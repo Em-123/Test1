@@ -8,6 +8,6 @@ int main(int argc, char **argv)
 
  askname(first, last);
 
- printf("Hey.., there1 %s %s!\n", first, last);
+ printf("Hey.., there1 1%s %s!\n", first, last);
  return 0;
 }
